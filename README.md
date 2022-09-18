@@ -1,6 +1,6 @@
 # NLW eSports
 
-![preview](./.gitub/preview)
+![preview](./.github/preview.png)
 
 > Trilha Explorer
 
