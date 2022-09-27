@@ -91,14 +91,18 @@ section p {
 
 section ul {
     display: flex;
+    flex-direction: row;
+    align-items: flex-start;
     flex-wrap: wrap;
     gap: 16px;
-
     margin-top: 24px;
-}
+    
+    }
 
 section ul li{
   transition: transform .3s;
+  flex-direction: row;
+    align-items: flex-start;
 
 }
 
@@ -109,6 +113,7 @@ section ul li:hover {
 
 .games-list img {
     border-radius: 8px;
+    
 
 }
 
